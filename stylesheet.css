@@ -1,0 +1,57 @@
+body{
+    background-image: url(andrew-kliatskyi-ExB8K5vnHVE-unsplash.jpg);
+    width: 70%;
+    margin: auto;
+}
+body, html{
+    height: 100%;
+}
+
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+  .navbar{
+      text-align: center;
+  }
+
+  .container-yhtye{
+      color: blanchedalmond;
+  }
+  .carousel-caption{
+      color: rgb(233, 196, 150);
+  }
+  .caption2{
+      color: rgb(6, 83, 10);
+  }
+  .container-koti{
+      text-align: center;
+      color: antiquewhite;
+  }
+  .esittely{
+      text-align: center;
+      color: bisque;
+  }
+ 
+     
+  .img-thumbnail{
+      border: 0rem;
+  }
+
+  .container-yhteys{
+      text-align: center;
+      color: bisque;
+      float: right;
+  }
+
+  .container-keikat{
+      border: 2px solid bisque;
+      text-align: center;
+      color: bisque;
+  }
+
+  .bändiesittely{
+      margin: auto;
+  }
+  .avatar{
+      margin:auto;
+  }
